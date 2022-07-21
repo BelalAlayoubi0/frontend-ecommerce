@@ -1,0 +1,51 @@
+export const GET_USERS = 'GET_USERS';
+export const USERS_ERROR = 'USERS_ERROR'
+export const REGSITER_REQUEST = 'REGSITER_REQUEST';
+export const REGSITER_ERROR = 'REGSITER_ERROR';
+export const REGSITER_SUCCESS = 'REGSITER_SUCCESS';
+
+
+
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+
+
+
+export const GET_USER = 'GET_USER';
+export const SUCCESS_USER = 'SUCCESS_USER';
+
+
+
+export const REMOVE_USER = 'REMOVE_USER';
+export const USER_ERROR = 'USER_ERROR';
+
+
+
+
+export const UPDATEPROFILE_REQUEST = 'UPDATEPROFILE_REQUEST';
+export const UPDATEPROFILE_SUCCESS = 'UPDATEPROFILE_SUCCESS';
+export const UPDATEPROFILE_ERROR = 'UPDATEPROFILE_ERROR';
+
+
+
+export const GET_SINGLE_USER = 'GET_SINGLE_USER';
+export const SUCCESS_SINGLE_USER = 'SUCCESS_SINGLE_USER';
+
+
+
+
+
+
+export const UPDATE_SINGLE_USER = 'UPDATE_SINGLE_USER';
+export const SUCCESS_UPDATE_SINGLE_USER = 'SUCCESS_UPDATE_SINGLE_USER';
+
+
+export const ORDER_REQUEST = 'ORDER_REQUEST';
+export const ORDER_SUCCESS = 'ORDER_SUCCESS';
+export const ORDER_ERROR = 'ORDER_ERROR';
+
+      
+
+
+
